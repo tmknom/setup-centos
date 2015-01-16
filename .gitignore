@@ -1,0 +1,14 @@
+
+### OSX ###
+.DS_Store
+Thumbs.db
+
+### Vagrant ###
+.vagrant/
+
+### python ###
+*.pyc
+
+### log ###
+*.log
+
